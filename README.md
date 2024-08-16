@@ -8,7 +8,7 @@
 
 1. Install Python 3.
 
-2. Клонируйте репозиторий на свой компьютер:
+2. Клонируйте репозиторий на свой компьютер ИЛИ загрузите все три файла и поместите их в одну папку:
 
     ```bash
     https://github.com/Microzibert/MinecraftCraftCalculator.git
